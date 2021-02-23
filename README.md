@@ -1,17 +1,22 @@
 # QuerIt
-## A CP2106 (Orbital) Project by Team S/UGong
-
 
 ### Tech Stack:
-Flutter(Dart), Firebase
+Flutter, Firebase
 
 ### Level of Achievement:
 Project Gemini
-
-![](/images/orbital_cert_joel.PNG)
 ![](/images/joven_cert.PNG)
 
 ### Contributions:
+
+#### Joven (GitHub username: CSmortal):
+- Implemented prototype
+- Refined UI elements
+- Improved the login pages
+- Implemented the Register page
+- Implemented voting system 
+- Implemented threads
+- Debugged for both front end and back end
 
 #### Joel (GitHub username: joelngyx):
 - Implemented prototype 
@@ -22,14 +27,6 @@ Project Gemini
 - Implemented archive function
 - Debugged for both front end and back end
 
-#### Joven (GitHub username: CSMortal):
-- Implemented prototype
-- Refined UI elements
-- Improved the login pages
-- Implemented the Register page
-- Implemented voting system 
-- Implemented threads
-- Debugged for both front end and back end
 
 ### Poster:
 A brief overview of our app
