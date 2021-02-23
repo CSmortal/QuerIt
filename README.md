@@ -3,8 +3,6 @@
 ### Tech Stack:
 Flutter, Firebase
 
-### Level of Achievement:
-Project Gemini
 ![](/images/joven_cert.PNG)
 
 ### Contributions:
