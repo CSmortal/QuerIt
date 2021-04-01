@@ -15,8 +15,10 @@ If you would like to test out our app, simply:
 ### Link to our demo video:
 https://drive.google.com/drive/folders/1HxX19_DUvqI0dFxBBuCuVpyh9xhdyxTB?usp=sharing
 
+
 ### Poster:
-A brief overview of our app
+
+
 ![](/images/poster_querit.PNG)
 
 
