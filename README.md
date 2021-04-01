@@ -3,44 +3,28 @@
 ### Tech Stack:
 Flutter, Firebase
 
-![](/images/joven_cert.PNG)
+### Scope of Project:
+QuerIt is an android app that functions as a chat app that allows users to create chat rooms that can be joined by other users in the vicinity. These chat rooms will have various features, such as a voting system for messages that are deemed useful.
 
-### Contributions:
+If you would like to test out our app, simply: 
+1. Download the zip file in the release tab of our GitHub page. 
+2. Have Android Studio installed, and have an Android Emulator running. 
+3. Drag the apk file from the zip file into the emulator. The app will install immediately.
+4. Run QuerIt on your emulator. Test it out with your friends!
 
-#### Joven (GitHub username: CSmortal):
-- Implemented prototype
-- Refined UI elements
-- Improved the login pages
-- Implemented the Register page
-- Implemented voting system 
-- Implemented threads
-- Debugged for both front end and back end
-
-#### Joel (GitHub username: joelngyx):
-- Implemented prototype 
-- Refined UI elements
-- Improved UI of the Home Page
-- Implemented geolocation functions
-- Implemented room creation 
-- Implemented archive function
-- Debugged for both front end and back end
-
+### Link to our demo video:
+https://drive.google.com/drive/folders/1HxX19_DUvqI0dFxBBuCuVpyh9xhdyxTB?usp=sharing
 
 ### Poster:
 A brief overview of our app
-
 ![](/images/poster_querit.PNG)
 
-### Scope of Project:
 
-QuerIt is an android app that functions as a chat app that allows users to create chat rooms that can be joined by other users in the vicinity. These chat rooms will have various features, such as a voting system for messages that are deemed useful.
 
 ### Target Audience:
-
 Anyone who is participating in a lecture/seminar, be it the speaker or the audience. We feel this would be especially useful in seminars when most people do not know each other (as well as each other’s contacts), because this app allows for people to ask questions and reply to them readily, optionally behind the veil of anonymity.
 
 ### Aim:
-
 We hope to let people clarify doubts and provide feedback in a quick and anonymous manner through our app during lectures so as to have a more satisfactory experience in said lectures.
 
 ### Features:
@@ -115,14 +99,4 @@ We hope to let people clarify doubts and provide feedback in a quick and anonymo
 3. Geolocation works generally, and if bugs are encountered, they will be resolved with a few taps of the refresh button.
 
 
-### Link to our demo video:
-
-https://drive.google.com/drive/folders/1HxX19_DUvqI0dFxBBuCuVpyh9xhdyxTB?usp=sharing
-
-### Further testing:
-
-If you would like to test out our app, simply: 
-1. Download the zip file in the release tab of our GitHub page. 
-2. Have Android Studio installed, and have an Android Emulator running. 
-3. Drag the apk file from the zip file into the emulator. The app will install immediately.
-4. Run QuerIt on your emulator. Test it out with your friends!
+![](/images/joven_cert.PNG)
